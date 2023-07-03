@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/Eslam-EO/Hero-section-with-HTML-vanilla-CSS-JS)
+- Live Site URL: [](https://eslam-eo.github.io/Hero-section-with-HTML-vanilla-CSS-JS)
 
 ## My process
 
